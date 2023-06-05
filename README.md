@@ -58,6 +58,3 @@ git clone https://github.com/Arunpandiyan-12/CodeVerse.git
 
 Contributions to CodeVerse are welcome! If you have any suggestions, bug reports, or feature requests, please create an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
