@@ -42,13 +42,13 @@ git clone https://github.com/Arunpandiyan-12/CodeVerse.git
 4. Start the application:
 - Frontend:
   ```
-  cd frontend
+  cd client
   npm start
   ```
 
 - Backend:
   ```
-  cd backend
+  cd server
   npm start
   ```
 
