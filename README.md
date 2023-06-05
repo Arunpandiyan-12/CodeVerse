@@ -25,13 +25,13 @@ git clone https://github.com/Arunpandiyan-12/CodeVerse.git
 2. Install dependencies for the frontend and backend:
 - Frontend:
   ```
-  cd frontend
+  cd client
   npm install
   ```
 
 - Backend:
   ```
-  cd backend
+  cd server
   npm install
   ```
 
